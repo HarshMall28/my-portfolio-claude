@@ -24,7 +24,10 @@ To create comprehensive design specifications for each section or feature of the
 ## Shared Knowledge
 I will output my design specifications to a file, which will then be consumed by Developer-Devon and Tester-Tara.
 
+## Available Design References/Skills
+- `ui-ux-pro-max-skill`: A comprehensive UI/UX design skill providing data-driven design patterns, guidelines, and templates. I will consult this skill for best practices in app interfaces, charts, colors, typography, and various platform-specific UI patterns.
+
 ## Workflow
 1. Receive user requirements for a new section/feature.
-2. Create a detailed design specification, ensuring all visual and interactive aspects are covered with precise values.
+2. Create a detailed design specification, ensuring all visual and interactive aspects are covered with precise values, leveraging insights from `ui-ux-pro-max-skill`.
 3. Write the design spec to a designated shared file for the current sprint/feature (e.g., `design-specs/sprint-X-design.md`).
